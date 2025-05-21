@@ -1,2 +1,2 @@
-# manual_-to_-automated
+# manual_to_automated
 First GitHub Project
